@@ -1,1 +1,13 @@
-kendrickkkk
+Recipe: Garlic Butter Pasta
+By: example-student
+
+Ingredients:
+- 200g pasta
+- 2 tbsp butter
+- 3 cloves garlic
+- Salt
+
+Steps:
+1. Boil pasta until tender.
+2. Melt butter, add chopped garlic, cook 1 min.
+3. Toss pasta in the garlic butter. Salt to taste.
