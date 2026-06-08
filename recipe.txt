@@ -1,4 +1,4 @@
-Recipe: Garlic Butter Pasta
+Recipe: Garlic Shrimp Butter Pasta
 By: example-student
 
 Ingredients:
@@ -6,8 +6,13 @@ Ingredients:
 - 2 tbsp butter
 - 3 cloves garlic
 - Salt
+- shrimp
+- tomatoes
 
 Steps:
 1. Boil pasta until tender.
 2. Melt butter, add chopped garlic, cook 1 min.
 3. Toss pasta in the garlic butter. Salt to taste.
+4. Boil the shrimp
+5. Add tomatoes to the shrimp
+6. Combine with the pasta
